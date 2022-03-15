@@ -1,4 +1,4 @@
-# Udemy_LOSO
+# Sample
 ## A Responsive Website
 ### Languages Used:
     1. HTML
